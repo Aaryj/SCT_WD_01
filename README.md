@@ -1,2 +1,2 @@
-# SCT_WD_01
+# SCT_WD_1
 Simple landing page
